@@ -4,4 +4,4 @@ google-api-python-client
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
-swarm @ git+https://github.com/your/swarm-repo.git  # Replace with actual if custom
+git+https://github.com/openai/swarm.git  # Replace with actual if custom
